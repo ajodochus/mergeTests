@@ -1,8 +1,4 @@
 01 fileCreatedOnGithub
-<<<<<<< HEAD
-local changes again
-=======
 changes remote <--> local again
->>>>>>> 3b3db55711ad19e707695718967821aee183d5e5
 02 changes made to file after pulling it to local
 remote changes
