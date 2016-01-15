@@ -1,1 +1,2 @@
+local rm
 remote
