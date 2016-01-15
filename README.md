@@ -1,1 +1,1 @@
-remote fb2
+remote new more
