@@ -1,5 +1,7 @@
 <<<<<<< HEAD
+local rm
 remote
 =======
-local rm
->>>>>>> fb2
+remote new more
+new zzz
+>>>>>>> zzz
